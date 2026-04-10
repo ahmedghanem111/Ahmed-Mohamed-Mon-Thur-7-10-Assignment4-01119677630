@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Ahmed",
+    "age": 22,
+    "email": "ahmed@gmail.com"
+  },
+  {
+    "id": 2,
+    "name": "Mohamed",
+    "age": 54,
+    "email": "mohamed@gmail.com"
+  },
+  {
+    "id": 3,
+    "name": "Abdelfataah",
+    "age": 26,
+    "email": "abdelfataah@gmail.com"
+  },
+  {
+    "id": 4,
+    "name": "Khaled",
+    "age": 30,
+    "email": "khaled@gmail.com"
+  }
+]
