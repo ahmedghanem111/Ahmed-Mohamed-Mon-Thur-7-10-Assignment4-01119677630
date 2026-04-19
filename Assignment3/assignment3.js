@@ -31,7 +31,7 @@ pipeline(
   fs.createReadStream("./data.txt"),
   zlib.createGzip(),
   fs.createWriteStream("./data.txt.gz"),
-  (err) => {
+  (err) => { 
     if (err) {
       console.error("Pipeline failed", err);
     } else {
